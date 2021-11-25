@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main {
     height: 92vh;
     display: flex;
@@ -11,4 +12,19 @@ main img {
 
 .nav {
     background-color: #fff;
+=======
+main {
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main img {
+    width: 60%;
+}
+
+.nav {
+    background-color: #fff;
+>>>>>>> 7ec5bcff91532a465e21b5e55263c0bdd170fc82
 }
