@@ -1,0 +1,9 @@
+main {
+    height: auto;
+}
+
+iframe {
+    width: 640px;
+    height: 69em;
+    margin: 40px 0;
+}
